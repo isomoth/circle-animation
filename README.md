@@ -1,4 +1,4 @@
-[![Java Circle Animation](https://i.ibb.co/fYMGtWd/Screenshot-488.png)](https://youtu.be/ck6VVAsVV1U "Circle Animation")
+[![Java Circle Animation](https://i.ibb.co/tmHtk7T/Screenshot-491.png)](https://youtu.be/ck6VVAsVV1U "Circle Animation")
 
 # circle-animation
 A circle moving within the borders of the frame. Generated through an event listener, random coordinates and a timer object that generates a delay of 200 milliseconds. 
